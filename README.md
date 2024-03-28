@@ -36,7 +36,3 @@ Feel free to contribute to this project by adding new features, fixing bugs, or 
 - Add more styling to enhance the visual appeal of the game.
 - Implement additional features such as keeping track of the number of rounds played.
 - Refactor the code to make it more modular and maintainable.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
